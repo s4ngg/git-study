@@ -6,3 +6,4 @@
     - 브랜치 목록 조회 : git branch
     - 브랜치 이동 : git switch 브랜치명
     - 브랜치 삭제 : git branch -d 브랜치명
+    - git merge second : second 브랜치의 내용을 현재 브랜치에 합친다.
